@@ -1,4 +1,3 @@
-				<?php //dd($antecedente); ?>
 @extends('layouts.app')
 
 @section('content')
